@@ -1,2 +1,5 @@
 MASTER_file.txt
-
+OBNOVLENIE
+dfs
+:wq
+sdfs
